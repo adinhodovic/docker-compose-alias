@@ -1,3 +1,3 @@
-# Docker-Compose alias and functions
+# Docker-Compose aliases
 
-#### Useful command line alias for Docker-Compose. This is for my usage.
+#### Useful command line aliases for Docker-Compose. This is for my usage.

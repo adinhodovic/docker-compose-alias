@@ -1,5 +1,5 @@
 # ------------------------------------
-# Docker-compose alias and function
+# Docker-compose aliases
 # ------------------------------------
 
 # Default alias
