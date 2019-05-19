@@ -15,10 +15,10 @@ alias dcl='docker-compose logs'
 alias dclf='docker-compose logs -f'
 
 # DC up
-alias dcup='docker-compose up'
+alias dcu='docker-compose up'
 
 # DC up daemonized
-alias dcupd='docker-compose up -d'
+alias dcud='docker-compose up -d'
 
 # DC ps
 alias dcps='docker-compose ps'
