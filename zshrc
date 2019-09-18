@@ -26,8 +26,11 @@ alias dcps='docker-compose ps'
 # DC ps services
 alias dcps='docker-compose ps --services'
 
-# DC stop & rm
-alias dcrm='docker-compose stop && docker-compose'
+# DC stop
+alias dcs='docker-compose stop'
+
+# DC stop & force rm
+alias dcrm='docker-compose stop && docker-compose rm'
 
 # DC stop & force rm
 alias dcrmf='docker-compose stop && docker-compose rm --force'
